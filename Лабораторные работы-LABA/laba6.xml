@@ -1,0 +1,178 @@
+<books>
+    <book1>
+        <name>Солце</name>
+        <avtor>Афанасьев Виктор Владиславович</avtor>
+        <chanr>научная книга</chanr>
+        <year>1990</year>
+        <pages>200</pages>
+        <tiraj>1000</tiraj>
+        <page_tirage>200</page_tirage>
+
+    </book1>
+
+    <book2>
+        <name>Земля</name>
+        <avtor>Афанасьев Виктор Владиславович</avtor>
+        <chanr>научная книга</chanr>
+        <year>1980</year>
+        <pages>250</pages>
+        <tiraj>2000</tiraj>
+        <page_tirage>250</page_tirage>
+
+    </book2>
+
+
+    <book3>
+        <name>Небо</name>
+        <avtor>Афанасьев Виктор Владиславович</avtor>
+        <chanr>научная книга</chanr>
+        <year>1990</year>
+        <pages>215</pages>
+        <tiraj>6000</tiraj>
+        <page_tirage>215</page_tirage>
+
+    </book3>
+
+
+    <book4>
+        <name>Луна</name>
+        <avtor>Афанасьев Виктор Владиславович</avtor>
+        <chanr>научная книга</chanr>
+        <year>2001</year>
+        <pages>300</pages>
+        <tiraj>10000</tiraj>
+        <page_tirage>300</page_tirage>
+
+    </book4>
+
+
+    <book5>
+        <name>География</name>
+        <avtor>Афанасьев Виктор Владиславович</avtor>
+        <chanr>научная книга</chanr>
+        <year>1995</year>
+        <pages>316</pages>
+        <tiraj>30000</tiraj>
+        <page_tirage>316</page_tirage>
+
+    </book5>
+
+
+    <book6>
+        <name>Математика</name>
+        <avtor>Павлова Лариса Максимовна</avtor>
+        <chanr>научная книга</chanr>
+        <year>1998</year>
+        <pages>180</pages>
+        <tiraj>7000</tiraj>
+        <page_tirage>180</page_tirage>
+
+    </book6>
+
+    <book7>
+        <name>Русский язык</name>
+        <avtor>Павлова Лариса Максимовна</avtor>
+        <chanr>научная книга</chanr>
+        <year>1998</year>
+        <pages>292</pages>
+        <tiraj>18000</tiraj>
+        <page_tirage>292</page_tirage>
+
+    </book7>
+
+
+    <book8>
+        <name>Химия</name>
+        <avtor>Павлова Лариса Максимовна</avtor>
+        <chanr>научная книга</chanr>
+        <year>1981</year>
+        <pages>356</pages>
+        <tiraj>1000</tiraj>
+        <page_tirage>356</page_tirage>
+
+    </book8>
+
+
+    <book9>
+        <name>Физика</name>
+        <avtor>Павлова Лариса Максимовна</avtor>
+        <chanr>научная книга</chanr>
+        <year>1981</year>
+        <pages>191</pages>
+        <tiraj>3000</tiraj>
+        <page_tirage>191</page_tirage>
+
+    </book9>
+
+
+    <book10>
+        <name>Астраномия</name>
+        <avtor>Павлова Лариса Максимовна</avtor>
+        <chanr>научная книга</chanr>
+        <year>1987</year>
+        <pages>213</pages>
+        <tiraj>9000</tiraj>
+        <page_tirage>213</page_tirage>
+
+    </book10>
+
+    <book11>
+        <name>Философия</name>
+        <avtor>Павлов Андрей Николаевич</avtor>
+        <chanr>научная книга</chanr>
+        <year>2001</year>
+        <pages>500</pages>
+        <tiraj>1000</tiraj>
+        <page_tirage>500</page_tirage>
+
+    </book11>
+
+
+    <book12>
+        <name>Геометрия</name>
+        <avtor>Павлов Андрей Николаевич</avtor>
+        <chanr>научная книга</chanr>
+        <year>1990</year>
+        <pages>16 000</pages>
+        <tiraj>120</tiraj>
+        <page_tirage>120</page_tirage>
+
+    </book12>
+
+
+    <book13>
+        <name>История</name>
+        <avtor>Павлов Андрей Николаевич</avtor>
+        <chanr>научная книга</chanr>
+        <year>1991</year>
+        <pages>232</pages>
+        <tiraj>10000</tiraj>
+        <page_tirage>232</page_tirage>
+
+    </book13>
+
+
+    <book14>
+        <name>Механика</name>
+        <avtor>Павлов Андрей Николаевич</avtor>
+        <chanr>научная книга</chanr>
+        <year>1990</year>
+        <pages>316</pages>
+        <tiraj>40000</tiraj>
+        <page_tirage>316</page_tirage>
+
+    </book14>
+
+
+    <book15>
+        <name>Информатика</name>
+        <avtor>Павлов Андрей Николаевич</avtor>
+        <chanr>научная книга</chanr>
+        <year>1990</year>
+        <pages>245</pages>
+        <tiraj>20000</tiraj>
+        <page_tirage>245</page_tirage>
+
+    </book15>
+
+</books>

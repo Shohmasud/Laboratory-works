@@ -1,0 +1,183 @@
+<computer>
+    <book1>
+        <name>Солце</name>
+        <avtor>Афанасьев Виктор</avtor>
+        <chanr>научная книга</chanr>
+        <year>1990</year>
+        <pages>200</pages>
+        <tiraj>1000</tiraj>
+        <page_tirage></page_tirage>
+
+    </book1>
+
+    <book2>
+        <name>Земля</name>
+        <avtor>16 000</avtor>
+        <chanr>120</chanr>
+        <year>ASUS F552CL</year>
+        <pages>16 000</pages>
+        <tiraj>120</tiraj>
+        <page_tirage>120</page_tirage>
+
+    </book2>
+
+
+    <book3>
+        <name>Небо</name>
+        <avtor>16 000</avtor>
+        <chanr>120</chanr>
+        <year>ASUS F552CL</year>
+        <pages>16 000</pages>
+        <tiraj>120</tiraj>
+        <page_tirage>120</page_tirage>
+
+    </book3>
+
+
+    <book4>
+        <name>Луна</name>
+        <avtor>16 000</avtor>
+        <chanr>120</chanr>
+        <year>ASUS F552CL</year>
+        <pages>16 000</pages>
+        <tiraj>120</tiraj>
+        <page_tirage>120</page_tirage>
+
+    </book4>
+
+
+
+    <book5>
+        <name>География</name>
+        <avtor>16 000</avtor>
+        <chanr>120</chanr>
+        <year>ASUS F552CL</year>
+        <pages>16 000</pages>
+        <tiraj>120</tiraj>
+        <page_tirage>120</page_tirage>
+
+    </book5>
+
+
+    <book6>
+        <name>Математика</name>
+        <avtor>16 000</avtor>
+        <chanr>120</chanr>
+        <year>ASUS F552CL</year>
+        <pages>16 000</pages>
+        <tiraj>120</tiraj>
+        <page_tirage>120</page_tirage>
+
+    </book6>
+
+    <book7>
+        <name>Русский язык</name>
+        <avtor>16 000</avtor>
+        <chanr>120</chanr>
+        <year>ASUS F552CL</year>
+        <pages>16 000</pages>
+        <tiraj>120</tiraj>
+        <page_tirage>120</page_tirage>
+
+    </book7>
+
+
+
+    <book8>
+        <name>Химия</name>
+        <avtor>16 000</avtor>
+        <chanr>120</chanr>
+        <year>ASUS F552CL</year>
+        <pages>16 000</pages>
+        <tiraj>120</tiraj>
+        <page_tirage>120</page_tirage>
+
+    </book8>
+
+
+
+    <book9>
+        <name>Физика</name>
+        <avtor>16 000</avtor>
+        <chanr>120</chanr>
+        <year>ASUS F552CL</year>
+        <pages>16 000</pages>
+        <tiraj>120</tiraj>
+        <page_tirage>120</page_tirage>
+
+    </book9>
+
+
+    <book10>
+        <name>Астраномия</name>
+        <avtor>16 000</avtor>
+        <chanr>120</chanr>
+        <year>ASUS F552CL</year>
+        <pages>16 000</pages>
+        <tiraj>120</tiraj>
+        <page_tirage>120</page_tirage>
+
+    </book10>
+
+    <book11>
+        <name>Философия</name>
+        <avtor>16 000</avtor>
+        <chanr>120</chanr>
+        <year>ASUS F552CL</year>
+        <pages>16 000</pages>
+        <tiraj>120</tiraj>
+        <page_tirage>120</page_tirage>
+
+    </book11>
+
+
+    <book12>
+        <name>Геометрия</name>
+        <avtor>16 000</avtor>
+        <chanr>120</chanr>
+        <year>ASUS F552CL</year>
+        <pages>16 000</pages>
+        <tiraj>120</tiraj>
+        <page_tirage>120</page_tirage>
+
+    </book12>
+
+
+
+    <book13>
+        <name>История</name>
+        <avtor>16 000</avtor>
+        <chanr>120</chanr>
+        <year>ASUS F552CL</year>
+        <pages>16 000</pages>
+        <tiraj>120</tiraj>
+        <page_tirage>120</page_tirage>
+
+    </book13>
+
+
+
+    <book14>
+        <name>Механика</name>
+        <avtor>16 000</avtor>
+        <chanr>120</chanr>
+        <year>ASUS F552CL</year>
+        <pages>16 000</pages>
+        <tiraj>120</tiraj>
+        <page_tirage>120</page_tirage>
+
+    </book14>
+
+
+    <book15>
+        <name>Информатика</name>
+        <avtor>16 000</avtor>
+        <chanr>120</chanr>
+        <year>ASUS F552CL</year>
+        <pages>16 000</pages>
+        <tiraj>120</tiraj>
+        <page_tirage>120</page_tirage>
+
+    </book15>
+
+</computer>

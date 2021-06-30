@@ -1,0 +1,56 @@
+<sporsmen>
+    <sportsmen_1>
+        <first_name>Виктор</first_name>
+        <last_name>Шершуков</last_name>
+        <patronymic>Платонович</patronymic>
+        <date_of_birth>05.04.1990</date_of_birth>
+        <sport>футбол</sport>
+        <sport_category>1 разряд</sport_category>
+        <number_of_medals>15 медалей</number_of_medals>
+    </sportsmen_1>
+
+
+    <sportsmen_2>
+        <first_name>Анастасия</first_name>
+        <last_name>Битова</last_name>
+        <patronymic>Юрьевна</patronymic>
+        <date_of_birth>06.07.1992</date_of_birth>
+        <sport>волейбол</sport>
+        <sport_category>2 разряд</sport_category>
+        <number_of_medals>10 медалей</number_of_medals>
+    </sportsmen_2>
+
+
+    <sportsmen_3>
+        <first_name>Андрей</first_name>
+        <last_name>Кириллов</last_name>
+        <patronymic>Дмитриевич</patronymic>
+        <date_of_birth>07.06.1993</date_of_birth>
+        <sport>баскетбол</sport>
+        <sport_category>3 разряд</sport_category>
+        <number_of_medals>12 медалей</number_of_medals>
+    </sportsmen_3>
+
+
+    <sportsmen_4>
+        <first_name>Борис</first_name>
+        <last_name>Кудряшов</last_name>
+        <patronymic>Степанович</patronymic>
+        <date_of_birth>20.09.1995</date_of_birth>
+        <sport>бокс</sport>
+        <sport_category>мастер спорта</sport_category>
+        <number_of_medals>20 медалей</number_of_medals>
+    </sportsmen_4>
+
+
+    <sportsmen_5>
+        <first_name>Виталий</first_name>
+        <last_name>Орловский</last_name>
+        <patronymic>Николаевич</patronymic>
+        <date_of_birth>10.05.1998</date_of_birth>
+        <sport>тенис</sport>
+        <sport_category>чемпион мира</sport_category>
+        <number_of_medals>25 медалей</number_of_medals>
+    </sportsmen_5>
+
+</sporsmen>
